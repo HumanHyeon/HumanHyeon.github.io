@@ -1,8 +1,19 @@
-_site
-.sass-cache
-.jekyll-cache
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+_site/
+.sass-cache/
+*.swp
+pkg/
+test/
+_deploy/*
+Rakefile
 .jekyll-metadata
-*.sublime-project
-*.sublime-workspace
-.DS_Store
-Gemfile.lock
+/.idea/
