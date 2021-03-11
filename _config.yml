@@ -120,7 +120,7 @@ enable-gesture-navigation: True
 post-preview-words: 96
 
 #페이지당 표시되는 게시물의 수
-paginate: 10
+paginate: 5
 
 #공유 허가 버튼
 email-share: False
