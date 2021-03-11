@@ -120,7 +120,7 @@ enable-gesture-navigation: True
 post-preview-words: 96
 
 #페이지당 표시되는 게시물의 수
-paginate: 5
+paginate: 10
 
 #공유 허가 버튼
 email-share: False
@@ -135,7 +135,7 @@ pocket-share: False
 vkontakte-share: False
 
 #disqus댓글 기능 사용 시
-disqus-shortname: "HumanHyeon's Blog"
+disqus-shortname: "박세현"
 
 #소스코드 삽입시 자동 강조 문구
 syntax-highlight: True
