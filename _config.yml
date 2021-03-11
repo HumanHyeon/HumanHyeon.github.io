@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "humanhyeon-github-io.disqus.com"
+url: "https://humanhyeon.github.io/HumanHyeon.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -135,7 +135,7 @@ pocket-share: False
 vkontakte-share: False
 
 #disqus댓글 기능 사용 시
-disqus-shortname: "https-humanhyeon-github-io.disqus.com"
+disqus-shortname: "humanhyeon-github-io"
 
 #소스코드 삽입시 자동 강조 문구
 syntax-highlight: True
