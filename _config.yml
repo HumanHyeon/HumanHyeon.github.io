@@ -40,7 +40,7 @@ favicon: "/img/neural.png"
 ################
 
 #black-favicon: "/img/black-lab-glass.ico"
-logo: "/img/author.png" # 로고 변경 시 사용
+logo: "/img/main_logo.png" # 로고 변경 시 사용
 
 #background-img: "../img/intro-bg.jpg"
 background-img: "../img/bg-test.jpg"
@@ -59,6 +59,8 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Hello, This is HumanHyeon's Blog"
   - text: "Department of Computer Science, ICT College, Suwon University"
+  - text: "안녕하세요, HumanHyeon의 블로그 입니다."
+  - text: "수원대학교 ICT융합대학 컴퓨터학과 재학 중"
 
 me-img: "/img/middle_pic.png" #중앙사진  
 
@@ -100,6 +102,7 @@ web-app-mode: True
 
 # Icons for Web App mode
 
+#웹 앱 모드?
 icon-36p: "/img/web-app/icon-36p.png"
 icon-48p: "/img/web-app/icon-48p.png"
 icon-72p: "/img/web-app/icon-72p.png"
@@ -110,14 +113,16 @@ icon-192p: "/img/web-app/icon-192p.png"
 ########
 # Blog #
 ########
-#보류
 
 enable-gesture-navigation: True
 
+#글 미리보기 글자 사이즈
 post-preview-words: 96
 
+#페이지당 표시되는 게시물의 수
 paginate: 5
 
+#공유 허가 버튼
 email-share: True
 fb-share: True
 twitter-share: True
@@ -129,8 +134,10 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
+#disqus댓글 기능 사용 시
 disqus-shortname: "HumanHyeon's Blog"
 
+#소스코드 삽입시 자동 강조 문구
 syntax-highlight: True
 
 ############
@@ -138,29 +145,27 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/emblem_01.png"
-    date: "March 2016 - Today"
-    description: "Admission to Suwon University!"
-  - image: "/img/timeline/big-data.png"
-    date: "August 2016 - Today"
-    description: "Big Data Lab Director"
-  - image: "/img/timeline/computer_science.jpg"
-    date: "January 2020 - December 2020"
-    description: "Department of Computer Science vice-student president"
   - image: "/img/timeline/emblem_08.png"
     date: "January 2021 - Today"
     description: "ICT college student president"
-
+  - image: "/img/timeline/computer_science.jpg"
+    date: "January 2020 - December 2020"
+    description: "Department of Computer Science vice-student president"
+  - image: "/img/timeline/big-data.png"
+    date: "August 2016 - Today"
+    description: "Big Data Lab Director"
+  - image: "/img/timeline/emblem_01.png"
+    date: "March 2016 - Today"
+    description: "Admission to Suwon University!"
 # First image of the Timeline
 
-timeline-img: "/img/timeline/RAON_ROGO.jpg"
+timeline-img: "/img/timeline/up-arrow.png"
 
 ###########
 # Contact #
 ###########
 
 email: "king1209sam@naver.com"
-#여기까지함
 
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
 pgp: False
@@ -173,38 +178,41 @@ pgp: False
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+#author_blurb: "댓글을 기대합니다!"
+author_blurb_image: "/img/main_logo.png"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
+  - title: "instagram"
+    url: "https://www.instagram.com/"
+#  - title: "facebook"
+#    url: "https://facebook.com/"
+#  - title: "twitter"
+#    url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/HumanHyeon"
   - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    #url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "미준비"
+#  - title: "rss"
+#    url: "/feed.xml"
 
 ############
 # 404 page #
 ############
 
-err-404-img: "/img/labtocat.png"
+err-404-img: "/img/404.png"
 
 ##################
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+#keybase-username: johnsmith
+#keybase-in-social: True
+#keybase-in-footer: True
 
 ################################################################################
 
@@ -212,6 +220,7 @@ keybase-in-footer: True
 
 # Sections shown in the index page
 
+#페이지 리스트 수정
 pages_list:
   About: 'about'
   Blog: 'latest-post'
