@@ -135,7 +135,7 @@ pocket-share: False
 vkontakte-share: False
 
 #disqus댓글 기능 사용 시
-disqus-shortname: "박세현"
+disqus-shortname: "https-humanhyeon-github-io.disqus.com"
 
 #소스코드 삽입시 자동 강조 문구
 syntax-highlight: True
