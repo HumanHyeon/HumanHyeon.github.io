@@ -1,6 +1,11 @@
 
 # Site settings
 
+#plugins:
+#  - jekyll-feed
+#  - jekyll-sitemap
+#  - jemoji
+
 # NB! Set your site's url, otherwise stuff will break :)
 
 url: "https://HumanHyeon.github.io"
@@ -12,8 +17,8 @@ url: "https://HumanHyeon.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: "/HumanHyeon.github.io"
-#baseurl: ""
+#baseurl: "/HumanHyeon.github.io"
+baseurl: ""
 
 # Google tracking id
 
@@ -41,7 +46,7 @@ favicon: "/img/neural.png"
 ################
 
 #black-favicon: "/img/black-lab-glass.ico"
-logo: "/img/main_logo.png" # 로고 변경 시 사용
+logo: "./img/main_logo.png" # 로고 변경 시 사용
 
 #background-img: "../img/intro-bg.jpg"
 background-img: "../img/bg-test.jpg"
