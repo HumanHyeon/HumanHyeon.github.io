@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: 마크다운은 어떻게 사용할까?
-category: Daily
+category: 일상
 tags: [ '마크다운', '사용법' ]
 ---
 <br>
