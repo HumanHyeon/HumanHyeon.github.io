@@ -6,7 +6,7 @@ category: 42Seoul
 tags: [ 'la piscine', 'pool', '42Seoul' ]
 ---
 <br>
-## <center>[ La Piscine 2일차 ]</center>  
+## <center>[ La Piscine 3일차 ]</center>  
 
 <br>
 슬슬 라 피신에 적응이 되어가는 것같다. 오늘은 Shell00을 2트라이 도전하면서 4명한테 검사받고, 6명을 검사하였다.  
