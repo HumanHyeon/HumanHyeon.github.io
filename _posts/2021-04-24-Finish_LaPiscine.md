@@ -6,7 +6,7 @@ category: 42Seoul
 tags: [ 'la piscine', 'pool', '42Seoul' ]
 ---
 <br>
-## <center>[ La Piscine 5일차 ]</center>  
+## <center>[ La Piscine 후기&결과 ]</center>  
 
 <br>
 4주간의 긴 여정이 끝나고 합격 결과가 나왔다.   
@@ -23,8 +23,8 @@ tags: [ 'la piscine', 'pool', '42Seoul' ]
 서울42도 전공자들의 모임이 되는 건가 싶다.    
 
 ![등록](/img/Post/42Seoul/42등록.png){: .align-center}   
-
-합격하게 된다면 위 사진 처럼 개포동에 들어갈 수 있는 버튼이 생성된다.   
+   
+합격하게 된다면 위 사진 처럼 개포동에 들어갈 수 있는 버튼이 생성된다.    
 (자세한 내용은 대외비라 언급하기가 어렵다..)     
     
 <br>
